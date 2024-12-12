@@ -15,8 +15,7 @@ Ein Chrome Addon das unter YouTube Videos die verbleibende Zeit und die Endzeit 
 
 ## Debugging
 
-- Verwenden Sie die `console.log`-Aussagen im Code, um die Ausführungsschritte nachzuvollziehen.
-- Fehler wie "Kein Videoelement gefunden" oder "Titel-Element wurde nicht gefunden" helfen bei der Identifizierung von Problemen.
+- Es werden Logs in der Browser Konsole ausgegeben.
 
 ## Lizenz
 
