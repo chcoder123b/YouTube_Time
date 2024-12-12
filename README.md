@@ -20,3 +20,5 @@ Ein Chrome Addon das unter YouTube Videos die verbleibende Zeit und die Endzeit 
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.
+
+## Fell free to send pull requests or make forks and have fun
