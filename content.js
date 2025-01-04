@@ -77,7 +77,7 @@ const updateVideoInfo = () => {
 
 // Funktion zur Überprüfung, ob es sich um einen Livestream handelt
 const checkIfLiveStream = () => {
-  const pageContent = document.body.innerText || document.body.textContent;
+  const pageContent = document.body.innerText || document.body.textContent || document.body.innerHTML;
 
   if (pageContent.includes("Livestream gestartet") || pageContent.includes("Aktiver Livestream seit") || pageContent.includes("Premiere") && !pageContent.includes("Chatwiedergabe nach dem Livestream")) {
     isLiveStream = true;
